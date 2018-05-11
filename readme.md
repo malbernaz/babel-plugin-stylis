@@ -35,7 +35,7 @@ var s = css`
 `;
 ```
 
-transforming your css to a minified and optimized version:
+And transforms your css to a minified and optimized version:
 
 ```js
 var s = ".some-class{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}";
