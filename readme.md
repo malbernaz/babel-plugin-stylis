@@ -1,4 +1,4 @@
-# babel-plugin-stylis
+# `babel-plugin-stylis`
 
 > babel-plugin-stylis is a babel plugin to precompile a style string into a minified and optimized version. For so it uses the [`stylis`](https://github.com/thysultan/stylis.js) package.
 
@@ -10,7 +10,7 @@ $ npm i babel-plugin-stylis # or yarn add babel-plugin-stylis
 
 ## Usage:
 
-add the plugin to your `.babelrc`:
+Add the plugin to your `.babelrc`:
 
 ```json
 {
