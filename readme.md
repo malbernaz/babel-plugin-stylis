@@ -42,3 +42,5 @@ var s = ".some-class{display:-webkit-box;display:-webkit-flex;display:-ms-flexbo
 ```
 
 ## License
+
+[MIT](https://github.com/malbernaz/babel-plugin-stylis/blob/master/LICENSE)
